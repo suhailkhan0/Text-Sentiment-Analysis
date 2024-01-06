@@ -1,1 +1,2 @@
 # Text-Sentiment-Analysis
+In this repo, we use the beautifulsoup & nltk library in analyzing the sentiment of different web articles by calculating variables like postive score, negative score, polarity etc. Each of these variables defines some property of each article and how they are differnet from others.
